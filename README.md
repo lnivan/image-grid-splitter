@@ -14,7 +14,7 @@
 
 ## About
 
-A small Tkinter window with a single button. You pick a photo, and the script cuts it into 16 equal tiles and saves them, numbered in reading order, in a new folder next to the original. The tiles are meant to be printed on A4 or A3 sheets and joined into an A0-sized poster. The cropping is done with Pillow, and the window, file picker and message boxes are plain Tkinter.
+A small Tkinter window with a single button. You pick a photo, and the script cuts it into 16 tiles of almost equal size and saves them, numbered in reading order, in a new folder next to the original. The tiles are meant to be printed on A4 or A3 sheets and joined into an A0-sized poster. The cropping is done with Pillow, and the window, file picker and message boxes are plain Tkinter.
 
 > [!NOTE]
 > The window text, file picker title and messages are in Spanish. The button reads `Seleccionar Foto y Dividir` ("Select photo and split").
