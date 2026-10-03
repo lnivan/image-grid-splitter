@@ -8,7 +8,6 @@
 ![Tkinter](https://img.shields.io/badge/Tkinter-30363D?style=flat-square)
 ![Pillow](https://img.shields.io/badge/Pillow-30363D?style=flat-square)
 ![Status](https://img.shields.io/badge/status-working-2DA44E?style=flat-square)
-![Year](https://img.shields.io/badge/year-2026-8250DF?style=flat-square)
 
 </div>
 
@@ -47,10 +46,6 @@ python divisor_imagenes.py
 - JPEG tiles are re-encoded at Pillow's default quality of 75, so they lose a little detail compared with the original.
 - The EXIF orientation tag is ignored, so a phone photo that is stored sideways is split sideways.
 - Running it twice on the same photo silently overwrites the earlier tiles.
-
-## Background
-
-Written in March 2026; the script is dated 21 March 2026.
 
 ---
 
